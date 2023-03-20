@@ -15,7 +15,7 @@
 ### Aboutme
 - 🔭 I’m currently Studing on Masai School
 - 🌱 I’m currently learning Java
-- 👨‍💻 All my projects are available at https://Lallu-123.github.io/ 
+- 👨‍💻 All my projects are available at [https://Lallu-123.github.io/](https://Lallu-123.github.io/) 
 - 📫 Email me at lalith.lallu100@gmail.com 
 
 
